@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+open_orange_HRM,Firefox 116.0,,,2023-08-24 12:49:01,2023-08-24 12:49:23,21.333s,PASSED
+,,,,,,,
+Test Cases/sample1,Firefox 116.0,,,2023-08-24 12:49:02,2023-08-24 12:49:10,7.908s,PASSED
+"openBrowser(""https://www.google.com "")",Firefox 116.0,,,2023-08-24 12:49:02,2023-08-24 12:49:10,7.501s,PASSED
+,,,,,,,
+Test Cases/sample2,Firefox 116.0,,,2023-08-24 12:49:10,2023-08-24 12:49:23,13.126s,PASSED
+"navigateToUrl(""https://www.orangehrm.com/"")",Firefox 116.0,,,2023-08-24 12:49:10,2023-08-24 12:49:23,12.655s,PASSED
